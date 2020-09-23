@@ -1,0 +1,13 @@
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/VaultCSharp.exe
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/VaultCSharp.pdb
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.csprojAssemblyReference.cache
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.csproj.CoreCompileInputs.cache
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.exe
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.pdb
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/VaultCSharp.exe.config
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/Newtonsoft.Json.dll
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/System.Net.Http.Formatting.dll
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/Newtonsoft.Json.xml
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/bin/Debug/System.Net.Http.Formatting.xml
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.exe.config
+/Users/baljeetsingh/Desktop/Hashicorp/VaultRepos/VaultExamples/VaultCSharp/VaultCSharp/obj/Debug/VaultCSharp.csproj.CopyComplete
